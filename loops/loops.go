@@ -20,10 +20,6 @@ func main()  {
 		fmt.Printf("Value at %d index is %d\n",index , value)
 	}
 
-	// arr := [10]int{5, 6, 8, 9, 4, 5, 5, 5, 6, 7}
-	// for index, value := range arr {
-	// 	fmt.Printf("Value at %d index is %d\n", index, value)
-	// }
-
+	
 
 }
